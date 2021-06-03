@@ -1,3 +1,4 @@
+#
 from functools import reduce
 def op(x,y):
     print(x,end='@@')
